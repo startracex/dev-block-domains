@@ -42,4 +42,7 @@ export default [
 
   // trae
   "www.trae.com.cn",
+
+  // iocoder
+  "www.iocoder.cn",
 ];

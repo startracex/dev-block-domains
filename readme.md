@@ -7,8 +7,9 @@
 添加下列参数到搜索关键词之后
 
 ```
--site:segmentfault.com -site:blog.csdn.net -site:wenku.csdn.net -site:download.csdn.net -site:huaweicloud.csdn.net -site:blog.gitcode.com -site:www.jianshu.com -site:www.51cto.com -site:blog.51cto.com -site:zhuanlan.zhihu.com -site:www.zhihu.com -site:www.imooc.com -site:www.docin.com -site:developer.baidu.com -site:cloud.tencent.com -site:nodejs.cn -site:p2hp.com -site:chartjs.cn -site:fenxianglu.cn -site:www.trae.com.cn
+-site:segmentfault.com -site:blog.csdn.net -site:wenku.csdn.net -site:download.csdn.net -site:huaweicloud.csdn.net -site:blog.gitcode.com -site:www.jianshu.com -site:www.51cto.com -site:blog.51cto.com -site:zhuanlan.zhihu.com -site:www.zhihu.com -site:www.imooc.com -site:www.docin.com -site:developer.baidu.com -site:cloud.tencent.com -site:nodejs.cn -site:p2hp.com -site:chartjs.cn -site:fenxianglu.cn -site:www.trae.com.cn -site:www.iocoder.cn
 ```
+
 
 ## 屏蔽规则
 
