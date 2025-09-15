@@ -1,0 +1,10 @@
+title: Dev Block Domains
+
+collections:
+  notes:
+    output: true
+    permalink: /notes/:name
+
+remote_theme: startracex/dn
+plugins:
+  - jekyll-remote-theme

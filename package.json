@@ -1,0 +1,16 @@
+{
+  "name": "dev-block-domains",
+  "version": "0.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "node build.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/startracex/dev-block-domains.git"
+  },
+  "devDependencies": {
+    "@types/node": "^24.4.0"
+  }
+}
